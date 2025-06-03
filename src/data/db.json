@@ -1,0 +1,368 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullname": "میلاد حاتمی",
+      "userName": "miladhatami",
+      "password": "hatami34",
+      "avatar": "/image/avatar/1.webp",
+      "isLoggedIn": true,
+      "hasStory": true,
+      "story_details": {
+        "story_name": "مشاور خرید ابزار خانگی"
+      }
+    },
+    {
+      "id": "2",
+      "fullname": "علی قربانی",
+      "userName": "alisiah",
+      "password": "koni1212",
+      "avatar": "/image/avatar/2.webp",
+      "isLoggedIn": true,
+      "hasStory": true,
+      "story_details": {
+        "story_name": "خوک نورانی"
+      }
+    },
+    {
+      "id": "3",
+      "fullname": "حسین عبداللهی",
+      "userName": "hoseinabi",
+      "password": "hosein12",
+      "avatar": "/image/avatar/3.jpg",
+      "hasStory": true,
+      "story_details": {
+        "story_name": "آداپتور چی بخرم ؟"
+      }
+    },
+    {
+      "id": "4",
+      "fullname": "فاطمه بیات",
+      "userName": "fatikomando",
+      "password": "fati98",
+      "avatar": "/image/avatar/4.jpg",
+      "hasStory": true,
+      "story_details": {
+        "story_name": "ماسک ضد آکنه لاقرار"
+      }
+    },
+    {
+      "id": "5",
+      "fullname": "کاظم لهراسبی",
+      "userName": "bachekhodada",
+      "password": "0912",
+      "avatar": "/image/avatar/5.jpg",
+      "isLoggedIn": true,
+      "hasStory": true,
+      "story_details": {
+        "story_name": "مشاور خرید موبایل"
+      }
+    },
+    {
+      "id": "6",
+      "fullname": "نرگس قاسمی",
+      "userName": "nargesgoli",
+      "password": "12398",
+      "avatar": "/image/avatar/6.jpg",
+      "isLoggedIn": true,
+      "hasStory": true,
+      "story_details": {
+        "story_name": "وسیله قدرتمند"
+      }
+    },
+    {
+      "id": "7",
+      "fullname": "کامران داحی",
+      "userName": "kamran67",
+      "password": "maki12",
+      "avatar": "/image/avatar/7.jpg",
+      "isLoggedIn": true,
+      "hasStory": true,
+      "story_details": {
+        "story_name": "هندزفری مانیتور دار"
+      }
+    },
+    {
+      "id": "8",
+      "fullname": "محمد قاسمی",
+      "userName": "mohamad23",
+      "password": "mohamdf12",
+      "avatar": "/image/avatar/8.jpg",
+      "isLoggedIn": true,
+      "hasStory": true,
+      "story_details": {
+        "story_name": "کدوم عینک مناسب کارمه"
+      }
+    },
+    {
+      "id": "282a",
+      "userName": "admin_rezaei",
+      "password": "12345",
+      "role": "admin",
+      "isLoggedIn": true,
+      "hasStory": false,
+      "email": false
+    },
+    {
+      "id": "6482",
+      "userName": "fatemeh",
+      "password": "fatemeh_434",
+      "role": "user",
+      "isLoggedIn": true,
+      "hasStory": false,
+      "email": false
+    },
+    {
+      "id": "9ee5",
+      "userName": "ali",
+      "role": "user",
+      "password": "ali24234",
+      "isLoggedIn": true,
+      "hasStory": false,
+      "email": false
+    },
+    {
+      "id": "80f5",
+      "userName": "abolVahshi",
+      "role": "user",
+      "password": "123234",
+      "realName": "حسن",
+      "isLoggedIn": true,
+      "hasStory": false,
+      "email": false
+    },
+    {
+      "id": "1265",
+      "userName": "hr7",
+      "role": "user",
+      "password": "1212",
+      "realName": "حسین",
+      "isLoggedIn": true,
+      "hasStory": false,
+      "email": false
+    }
+  ],
+  "PromotionalBanner": [
+    {
+      "id": "1",
+      "img": "/image/PromotionalBanner/banner1.webp"
+    },
+    {
+      "id": "2",
+      "img": "/image/PromotionalBanner/banner2.webp"
+    },
+    {
+      "id": "3",
+      "img": "/image/PromotionalBanner/banner3.webp"
+    },
+    {
+      "id": "4",
+      "img": "/image/PromotionalBanner/banner4.gif"
+    },
+    {
+      "id": "5",
+      "img": "/image/PromotionalBanner/banner4.gif"
+    }
+  ],
+  "ProductCategory": [
+    {
+      "id": "1",
+      "CategoryName": "موبایل",
+      "CategoryPicture": "image/Categories/categoryImage1.jpg"
+    },
+    {
+      "id": "2",
+      "CategoryName": "کالای دیجیتال",
+      "CategoryPicture": "image/Categories/categoryImage2.jpg"
+    },
+    {
+      "id": "3",
+      "CategoryName": "خانه و آشپزخانه",
+      "CategoryPicture": "image/Categories/categoryImage3.jpg"
+    },
+    {
+      "id": "4",
+      "CategoryName": "آرایشی بهذاشتی",
+      "CategoryPicture": "image/Categories/categoryImage3.jpg"
+    },
+    {
+      "id": "5",
+      "CategoryName": "آرایشی بهذاشتی",
+      "CategoryPicture": "image/Categories/categoryImage4.jpg"
+    },
+    {
+      "id": "6",
+      "CategoryName": "آرایشی بهذاشتی",
+      "CategoryPicture": "image/Categories/categoryImage5.jpg"
+    },
+    {
+      "id": "7",
+      "CategoryName": "آرایشی بهذاشتی",
+      "CategoryPicture": "image/Categories/categoryImage6.jpg"
+    },
+    {
+      "id": "8",
+      "CategoryName": "آرایشی بهذاشتی",
+      "CategoryPicture": "image/Categories/categoryImage7.jpg"
+    },
+    {
+      "id": "9",
+      "CategoryName": "آرایشی بهذاشتی",
+      "CategoryPicture": "image/Categories/categoryImage8.jpg"
+    },
+    {
+      "id": "10",
+      "CategoryName": "آرایشی بهذاشتی",
+      "CategoryPicture": "image/Categories/categoryImage9.jpg"
+    },
+    {
+      "id": "11",
+      "CategoryName": "آرایشی بهذاشتی",
+      "CategoryPicture": "image/Categories/categoryImage10.jpg"
+    },
+    {
+      "id": "12",
+      "CategoryName": "آرایشی بهذاشتی",
+      "CategoryPicture": "image/Categories/categoryImage11.jpg"
+    },
+    {
+      "id": "13",
+      "CategoryName": "آرایشی بهذاشتی",
+      "CategoryPicture": "image/Categories/categoryImage12.jpg"
+    },
+    {
+      "id": "14",
+      "CategoryName": "آرایشی بهذاشتی",
+      "CategoryPicture": "image/Categories/categoryImage13.jpg"
+    },
+    {
+      "id": "15",
+      "CategoryName": "آرایشی بهذاشتی",
+      "CategoryPicture": "image/Categories/categoryImage14.jpg"
+    },
+    {
+      "id": "16",
+      "CategoryName": "آرایشی بهذاشتی",
+      "CategoryPicture": "image/Categories/categoryImage16.jpg"
+    },
+    {
+      "id": "17",
+      "CategoryName": "آرایشی بهذاشتی",
+      "CategoryPicture": "image/Categories/categoryImage17.jpg"
+    },
+    {
+      "id": "18",
+      "CategoryName": "آرایشی بهذاشتی",
+      "CategoryPicture": "image/Categories/categoryImage18.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "ساعت"
+    },
+    {
+      "id": "2",
+      "name": "کرم"
+    },
+    {
+      "id": "3",
+      "name": "لبتاب"
+    }
+  ],
+  "brand": [
+    {
+      "id": "1",
+      "persianName": "ورنا",
+      "englishName": "Verona"
+    },
+    {
+      "id": "2",
+      "persianName": "ایسوس",
+      "englishName": "Asus"
+    },
+    {
+      "id": "3",
+      "persianName": "سان سیف",
+      "englishName": "Sun Safe"
+    }
+  ],
+  "products": [
+      {
+          "id": 2,
+          "type": "amazingOffer",
+          "categoryID": 3,
+          "brandId": 2,
+          "mainImage": "https://dkstatics-public.digikala.com/digikala-products/916f3292f9a578ef596cf97062d659ab3018a0c4_1741074770.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+          "images": [
+              "https://dkstatics-public.digikala.com/digikala-products/916f3292f9a578ef596cf97062d659ab3018a0c4_1741074770.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+              "https://dkstatics-public.digikala.com/digikala-products/ab274e9f7a27b374ecdcd12f58d296cde7c20644_1741074770.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+              "https://dkstatics-public.digikala.com/digikala-products/149b9134a56f601fb5be0199b8e24d5198ee68da_1741074771.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+          ],
+          "description": "لپ تاپ 15.6 اینچی ایسوس مدل TUF Gaming A15 FA506NFR-HN114-R7 7435HS-8GB DDR5-512GB SSD-RTX2050-FHD",
+          "priceDetails": {
+              "currentPrice": 58000000,
+              "dicCount": 51000000,
+              "DiscountPercentage": "20"
+          }
+      },
+      {
+          "id": 3,
+          "type": "amazingOffer",
+          "categoryID": "2",
+          "brandId": 3,
+          "mainImage": "https://dkstatics-public.digikala.com/digikala-products/0ee1337482ea2041e187f1f47bde4cefba0d63a9_1746616601.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+          "images": [
+              "https://dkstatics-public.digikala.com/digikala-products/0ee1337482ea2041e187f1f47bde4cefba0d63a9_1746616601.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+              "https://dkstatics-public.digikala.com/digikala-products/e9b7fe04d5aaa69ca55b6d2e281d4b33829c7f08_1735478981.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+              "https://dkstatics-public.digikala.com/digikala-products/d72f0bf4acdcaaaed101f44bfb04dbecc2604c50_1735478982.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+          ],
+          "description": "کرم ضدآفتاب سان‌سیف مدل 003، حجم 50 میلی‌لیتر",
+          "priceDetails": {
+              "currentPrice": 1980000,
+              "dicCount": 360000,
+              "DiscountPercentage": "28"
+          }
+      },
+      {
+          "id": 4,
+          "type": "amazingOffer",
+          "categoryID": "1",
+          "brandId": 1,
+          "mainImage": "https://dkstatics-public.digikala.com/digikala-products/128597b22bfea14f526507426051e8e59bd53ab9_1738408075.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+          "images": [
+              "http://dkstatics-public.digikala.com/digikala-products/6ad158ea8aa2f1fe2918e90d747d2414ac683b1e_1718523210.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+              "https://dkstatics-public.digikala.com/digikala-products/c847a43f1a2405887f839b7a4dcd3104cdeeeb16_1713961833.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+              "https://dkstatics-public.digikala.com/digikala-products/3360e92fb81293689c1e44656797bd4c597d6fb3_1710244378.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"
+          ],
+          "description": "ساعت هوشمند ورنا مدل T45 Pro max With 7 Bands، مناسب برای ورزش، روزمره، رسمی، دارای قابلیت‌های صفحه نمایش رنگی و لمسی، کنترل موسیقی",
+          "priceDetails": {
+              "currentPrice": 1990000,
+              "dicCount": 1469000,
+              "DiscountPercentage": "28"
+          }
+      }
+  ],
+  "articles": [
+    {
+      "id": "1",
+      "mainImage": "https://www.digikala.com/mag/wp-content/uploads/2025/05/Untitled-2.jpg",
+      "description": "مقایسه پوکو C65 با پوکو C75؛ نام متفاوت، امکانات مشابه!"
+    },
+    {
+      "id": "2",
+      "mainImage": "https://www.digikala.com/mag/wp-content/uploads/2025/05/Digikala-Mag-powerbank-buying-guide-1404-02.jpg",
+      "description": "بهترین پاوربانک بازار ایران (خرداد ۱۴۰۴)"
+    },
+    {
+      "id": "3",
+      "mainImage": "https://www.digikala.com/mag/wp-content/uploads/2025/05/best_gamecube_games.jpg",
+      "description": "۳۵ بازی برتر کنسول گیم‌کیوب؛ جعبه‌ی بنفش دوست‌داشتنی نینتندو"
+    },
+    {
+      "id": "4",
+      "mainImage": "https://www.digikala.com/mag/wp-content/uploads/2025/05/original-argan-oil.jpg    ",
+      "description": "راهنمای جامع تشخیص روغن آرگان لایتنس اصل و تقلبی"
+    }
+  ]
+}

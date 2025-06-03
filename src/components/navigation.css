@@ -1,0 +1,8 @@
+nav > .z-50 {
+    left: auto;
+    right: 0;
+}
+
+.navigation-menu > li[data-slot = "navigation-menu-item"]{
+    background-color: transparent;
+}

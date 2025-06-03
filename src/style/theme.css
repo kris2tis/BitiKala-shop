@@ -1,0 +1,13 @@
+@theme{
+    --color-brand-primary: #ed1944;
+    --color-secondaray: #fff;
+
+    --font-brand:"iranyekan";
+
+    --breakpoint-sm : 640px;
+    --breakpoint-md : 768px;
+    --breakpoint-lg : 1024px;
+    --breakpoint-xl : 1280px;
+    --breakpoint-2lg : 1536px;
+
+}
