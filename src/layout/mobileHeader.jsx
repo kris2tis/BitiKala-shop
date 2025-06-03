@@ -5,7 +5,7 @@ import { IoGrid } from "react-icons/io5";
 import { FaShoppingCart } from "react-icons/fa";
 import { FaShop } from "react-icons/fa6";
 import { FaUser } from "react-icons/fa";
-import MobileCategorySheet from "../components/mobileCategorySheet";
+import MobileCategorySheet from "../components/MobileCategorySheet";
 
 export default function MobileHeader() {
     let location = useLocation();
