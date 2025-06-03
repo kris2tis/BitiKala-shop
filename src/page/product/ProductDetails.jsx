@@ -1,5 +1,5 @@
 import BreadCrumb from "./Breadcrumb";
-import ImageSlider from "../../sections/ProductDetails/imageSlider";
+import ImageSlider from "../../sections/productDetails/imageSlider";
 import AddToCart from "../../sections/productDetails/addToCart";
 
 import { RiGeminiFill } from "react-icons/ri";
