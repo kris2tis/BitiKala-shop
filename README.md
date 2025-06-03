@@ -1,12 +1,78 @@
-# React + Vite
+# BitiKala 🛒
+**Bitishop** is a simple online store project inspired by the user interface of **Digikala**, one of the largest e-commerce platforms in Iran. The main purpose of this project is to gain hands-on experience with **RESTful API requests** and build a complete e-commerce application from scratch.
+  
+---
+  
+## Purpose🚀
+- To enhance my knowledge of the **useContext** hook, particularly for sharing data between components and managing a *shopping cart* system.
+- Simulating user **authentication** and role-based access control in order to render specific parts of the website based on the user's role and login status.
+- To deepen my understanding of **RESTful API** requests, including the use of &&query parameters&&.
+- To explore and implement a professional **folder structure** in a React application.
+  
+---
+  
+## Features 🎯
+- Add to Cart: Users can add products to their shopping cart.
+- Cart Management: Ability to increase, decrease, or remove the quantity of each item in the cart.
+- Product Listing Page: Displays all available products with support for sorting and filtering.
+- User Authentication: Users can log in to access more features.
+-Admin Panel Access: An admin panel is accessible with the following credentials:
+- **Username: admin_rezaei** **Password: 12345**
+-Product Details Page: Each product has a dedicated page with detailed information.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🛠 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project uses the following technologies and tools:
 
-## Expanding the ESLint configuration
+- **React**  
+  A popular JavaScript library for building user interfaces.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Vite**  
+  A fast development build tool and bundler.
+
+- **Tailwind CSS**  
+  A utility-first CSS framework for rapid UI styling.
+
+- **ShadCN UI**  
+  A collection of accessible and customizable React UI components.
+
+- **React Router**  
+  Library for routing and navigation in React applications.
+
+- **Axios**  
+  Promise-based HTTP client for making API requests.
+
+- **JSON Server**  
+  A fake REST API server for prototyping and testing.
+
+- **Swiper**  
+  A modern mobile touch slider with hardware-accelerated transitions.
+
+- **Sonner**  
+  A React library for toast notifications and alerts.
+
+
+---
+## ⚙️ Installation & Usage
+
+To run the project locally, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git@github.com:kris2tis/BitiKala-shop.git
+
+2. **install deps :**
+
+   ``` 
+    npm install
+3. **run json server:**
+
+   ```
+    npm run json-server
+4. **run project:**
+
+   ```
+    npm run dev
