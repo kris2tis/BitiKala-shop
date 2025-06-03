@@ -1,6 +1,6 @@
 import BreadCrumb from "./Breadcrumb";
-import ImageSlider from "../../sections/productDetails/imageSlider";
-import AddToCart from "../../sections/productDetails/addToCart";
+import ImageSlider from "../../sections/ProductDetails/imageSlider";
+import AddToCart from "../../sections/ProductDetails/addToCart";
 
 import { RiGeminiFill } from "react-icons/ri";
 import { IoIosArrowBack } from "react-icons/io";
