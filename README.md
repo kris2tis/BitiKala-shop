@@ -1,6 +1,8 @@
 # BitiKala 🛒
 **Bitishop** is a simple online store project inspired by the user interface of **Digikala**, one of the largest e-commerce platforms in Iran. The main purpose of this project is to gain hands-on experience with **RESTful API requests** and build a complete e-commerce application from scratch.
-  
+
+---
+  ### live [demo](https://bitikala.netlify.app/)
 ---
   
 ## Purpose🚀
